@@ -1,0 +1,4 @@
+#The amount of power a Bamboom explosion has. This is used in determining the blast radius and other factors.
+#Range: 0.0 ~ 3.4028234663852886E38
+blastPower = 4.0
+
