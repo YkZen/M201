@@ -1174,3 +1174,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Dec2024 08:33:21.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YkZen left the game
 [16Dec2024 08:37:07.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Dec2024 08:37:08.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 08:42:07.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 08:42:07.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 08:47:07.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 08:47:07.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
